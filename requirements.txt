@@ -1,0 +1,6 @@
+MySQLdb
+tabulate
+socket
+threading
+base64
+zlib
