@@ -5,7 +5,7 @@ Just a school mini project on sockets
 ## How It Works
 
     - launch server `python3 server.py`
-    - connect on the defined HOST and PORT in the server file `ncat HOST PORT`
+    - launch the client with `python client.py`
 
 ## Functionalities
 
@@ -17,4 +17,3 @@ Just a school mini project on sockets
 ## TO-DO
 
     - Add read file command to server.
-    - Client Interface.
