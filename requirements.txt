@@ -4,3 +4,6 @@ socket
 threading
 base64
 zlib
+tkinter
+click
+
